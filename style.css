@@ -1,0 +1,24 @@
+.light{
+    color:aqua;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+.dark{
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 26px;
+}
+.mid{
+    color: green;
+    font-family: cursive;
+    font-size: 32px;
+}
+#loud{
+    size: 300px;
+}
+#silly{
+    size: 300px;
+}
+#paint{
+    size: 300px;
+}
